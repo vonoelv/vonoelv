@@ -3,7 +3,7 @@ I’m a QA Automation engineer.
 ---
 
 ### About me:
-- I’ve been a manual QA engineer for about 10 years, currently I'm working as QA Automation engineer.
+- I’ve been a manual QA engineer for about 10 years, currently I'm working as a QA Automation engineer.
 <!--
 ### Tools and technologies:
 <p  align="center">
