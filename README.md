@@ -24,7 +24,7 @@ I’m a QA Automation engineer.
   <code><img width="5%" title="Appium" src="./images/icons/appium.svg"></code>
 </p>
 
-### An example of test automation project:
+### An example of test automation project (UI, API and mobile tests):
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vonoelv&repo=bookmate-test-project)](https://github.com/vonoelv/bookmate-test-project)
 
 A list of important facts about the project:
