@@ -25,10 +25,7 @@ I’m a QA Automation engineer.
 </p>
 
 ### An example of test automation project:
-<a href="https://github.com/vonoelv/bookmate-test-project">Test automation project for service Bookmate(API+UI+Mobile tests):</a>
-<p align="left">
-  <a href="https://github.com/vonoelv/bookmate-test-project"><img width="250" title="Test automation project for service Bookmate(API+UI+Mobile tests)" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vonoelv&repo=bookmate-test-project&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="bookmate-test-project"></a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vonoelv&repo=bookmate-test-project)](https://github.com/vonoelv/bookmate-test-project)
 
 A list of important facts about the project:
 - [x] `Page Object` with steps using `Chain of Invocations`
